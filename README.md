@@ -11,5 +11,3 @@ Mark works on improving technological systems, services, and processes for Subsp
 Mark served four years on his local public library board, including one year as its president. He served five years on the advisory board of a regional writers’ conference to recruit, select, and schedule presenters and keynote speakers. He has also served as an officer on the executive committee of a few volunteer nonprofit organizations.
 
 _The views expressed here are his own. They are not endorsed, approved, or reviewed by any other person or organization._
-
-![philoserf's github stats](https://github-readme-stats.vercel.app/api?username=philoserf&count_private=true&show_icons=true)
