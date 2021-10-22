@@ -4,7 +4,7 @@
 <br> | ... iterate iteratively through iterable iteration ...
 <br> | ...**
 
-Mark lives in Rockford, Michigan, a small town on the Rogue River near Grand Rapids. 
+Mark lives in Rockford, Michigan, a small town on the Rogue River near Grand Rapids.
 
 He has lived in:
 
