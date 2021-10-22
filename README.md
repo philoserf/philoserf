@@ -27,7 +27,7 @@ He has worked:
 
 He served in the US Army as both an enlisted airborne infantryman and an officer.
 
-Mark' community service includes:
+Mark's community service includes:
 
 - four years on his local public library board, including one year as its president;
 - five years on the advisory board of a regional writers' conference recruiting, selecting, and scheduling presenters and keynote speakers; and
