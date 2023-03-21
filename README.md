@@ -1,3 +1,4 @@
 a human being, being human
 
-sleep, move, eat, grow, share, love, laugh, cry, and die
+sleep, move, eat, grow, & share<br/>
+love, laugh, cry, & die
