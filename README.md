@@ -1,4 +1,4 @@
-a human being, being human
+I am a human being, being human.
 
-sleep, move, eat, grow, & share<br/>
-love, laugh, cry, & die
+It is important to sleep, move, eat, grow, & share.<br>
+All we need do is to love, laugh, cry, & die.
