@@ -12,6 +12,8 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
+    - run: git config --global --add safe.directory ${GITHUB_WORKSPACE}
+
     - name: Generate the user stats image
       uses: cicirello/user-statistician@v1
       env:
