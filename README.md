@@ -5,4 +5,4 @@ While I love, laugh, cry, & eventually die.
 
 ---
 
-![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=philoserf&theme=github)
+![profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=philoserf&theme=github)
