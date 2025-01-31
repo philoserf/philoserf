@@ -1,7 +1,8 @@
 <div align="center">
-I am a human being, being human.<br>
-I aim to sleep, move, eat, grow, & share,<br>
-While I love, laugh, cry, & eventually die.
+HOMO, HOMINIS ESSE<br>
+a human being, being human<br>
+(intending to) sleep, move, eat, grow, play, and share.<br>
+(While I) love, laugh, cry, and eventually die.
 
 ---
 
