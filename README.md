@@ -7,7 +7,7 @@ HOMO, HOMINIS ESSE<br>
 maðr verandi mannligr<br>
 自然為人<br>
 mtu kuwa mwanadamu<br>
-İnsan olmak, insanca olmak<br>
+insan olmak, insanca olmak<br>
 onkwe:honwe akénhake onkwe:honwe<br>
 anishinaabe e-anishinaabewid<br>
 मनुष्यः मानुषं भवन्<br>
