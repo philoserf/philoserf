@@ -14,7 +14,7 @@ manusso hutvā manussattaṃ<br>
 anishinaabe e-anishinaabewid<br>
 onkwe:honwe akénhake onkwe:honwe<br>
 <br>
-N uhzna orvat, orvat uhzna.
+n uhzna orvat, orvat uhzna.
 <br>
 a human being, being human<br>
 (intending to) sleep, move, eat, grow, play, and share.<br>
