@@ -16,7 +16,6 @@
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 ![Fish Shell](https://img.shields.io/badge/Fish-4AAE47?style=flat&logo=fishshell&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
@@ -46,10 +45,6 @@
   src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=philoserf&theme=github_dark"
   alt="Productive Time"
   width="49%">
-
-[![GitHub Streak](
-  https://streak-stats.demolab.com?user=philoserf&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D
-)](https://git.io/streak-stats)
 
 ---
 
