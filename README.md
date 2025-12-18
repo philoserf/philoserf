@@ -8,7 +8,7 @@
 (intending to) sleep, move, eat, grow, play, and share.
 (while I) love, laugh, cry, and eventually die.
 
-**HOMO, HOMINIS ESSE** • COGITA·DISCE·NECTE·ENUNTIA
+COGITA·DISCE·NECTE·ENUNTIA
 
 ---
 
