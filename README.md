@@ -10,8 +10,6 @@ _a human being, being human_
 
 COGITA·DISCE·NECTE·ENUNTIA
 
----
-
 ## 🛠️ Technologies & Tools
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
@@ -20,11 +18,7 @@ COGITA·DISCE·NECTE·ENUNTIA
 ![Fish Shell](https://img.shields.io/badge/Fish-4AAE47?style=flat&logo=fishshell&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
 
----
-
 Building with intention • Learning in public • Growing systems that serve humans
-
----
 
 ## 🌱 Philosophy
 
@@ -35,8 +29,6 @@ Ask permission once
 Assume good intentions  
 Use one file/folder until needed  
 Accept defaults first, deviate when justified
-
----
 
 ## 📊 GitHub Stats
 
