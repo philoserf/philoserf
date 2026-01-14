@@ -5,6 +5,7 @@
 ## Software Engineer • Systems Thinker • Knowledge Gardener
 
 _a human being, being human_  
+(at the balance of) think, do, be  
 (intending to) sleep, move, eat, grow, play, and share  
 (while I) love, laugh, cry, and eventually die
 
