@@ -44,5 +44,5 @@ Accept defaults first, deviate when justified
   src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=philoserf&theme=default&utcOffset=-5"
   alt="Productive Time"
   width="49%">
-</div>
 
+</div>
