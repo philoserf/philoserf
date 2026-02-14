@@ -1,37 +1,32 @@
 <div align="center">
 
-# Mark Ayers • @philoserf
-
-## Software Engineer • Systems Thinker • Knowledge Gardener
+## COGITA·DISCE·NECTE·ENUNTIA
 
 _a human being, being human_  
 (at the balance of) think, do, be  
 (intending to) sleep, move, eat, grow, play, and share  
 (while I) love, laugh, cry, and eventually die
 
-COGITA·DISCE·NECTE·ENUNTIA
+Go CLIs, TypeScript plugins, AI-augmented workflows.  
+Former SRE. Partially retired. Building tools for how I think and work.
 
-## 🛠️ Technologies & Tools
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
-![Fish Shell](https://img.shields.io/badge/Fish-4AAE47?style=flat&logo=fishshell&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
-
-Building with intention • Learning in public • Growing systems that serve humans
-
-## 🌱 Philosophy
+## Principles
 
 **Yes, and…**  
 Name things once  
 Embrace simplicity  
 Ask permission once  
 Assume good intentions  
-Use one file/folder until needed  
-Accept defaults first, deviate when justified
+One file until you need two  
+Defaults first, until justified
 
-## 📊 GitHub Stats
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](#)
+[![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)](#)
+[![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)](#)
+
+
+## Stats
 
 <img
   src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=philoserf&theme=default"
