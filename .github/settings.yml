@@ -1,0 +1,9 @@
+_extends: .github
+
+repository:
+  name: philoserf
+  description: "A GitHub user account profile"
+  homepage: https://philoserf.github.io/philoserf/
+  topics:
+    - bio
+  has_issues: false
