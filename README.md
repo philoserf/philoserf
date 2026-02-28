@@ -1,6 +1,7 @@
 <div align="center">
 
 ## COGITA·DISCE·NECTE·ENUNTIA
+PERCIPERE·CONNECTERE·EFFICERE
 
 _a human being, being human_  
 (at the balance of) think, do, be  
