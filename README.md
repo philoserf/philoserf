@@ -1,6 +1,6 @@
 <div align="center">
 
-## COGITA·DISCE·NECTE·ENUNTIA
+#### COGITA·DISCE·NECTE·ENUNTIA
 PERCIPE·CONNECTE·EFFICE​​​​​​​​​​​​​​​​
 
 _a human being, being human_  
@@ -8,10 +8,7 @@ _a human being, being human_
 (intending to) sleep, move, eat, grow, play, and share  
 (while I) love, laugh, cry, and eventually die
 
-Go CLIs, TypeScript plugins, AI-augmented workflows.  
-Former SRE. Partially retired. Building tools for how I think and work.
-
-## Principles
+#### Principles
 
 **Yes, and…**  
 Name things once  
@@ -27,7 +24,7 @@ Defaults first, until justified
 [![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)](#)
 
 
-## Stats
+#### Stats
 
 <img
   src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=philoserf&theme=default"
