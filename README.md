@@ -1,7 +1,7 @@
 <div align="center">
 
 #### COGITA·DISCE·NECTE·ENUNTIA
-PERCIPE·CONNECTE·EFFICE​​​​​​​​​​​​​​​​
+PERCIPE·CONNECTE·EFFICE
 
 _a human being, being human_  
 (at the balance of) think, do, be  
