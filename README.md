@@ -1,7 +1,8 @@
 <div align="center">
 
 #### COGITA·DISCE·NECTE·ENUNTIA
-PERCIPE·CONNECTE·EFFICE
+
+PERCIPE·STRUE·EFFICE
 
 _a human being, being human_  
 (at the balance of) think, do, be  
@@ -22,7 +23,6 @@ Defaults first, until justified
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](#)
 [![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)](#)
 [![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)](#)
-
 
 #### Stats
 
