@@ -1,17 +1,19 @@
 <div align="center">
 
-#### COGITA·DISCE·NECTE·ENUNTIA
-
+HOMO·HOMINIS·ESSE
+COGITA·DISCE·NECTE·ENUNTIA
 PERCIPE·STRUE·EFFICE
 
-_a human being, being human_  
-(at the balance of) think, do, be  
-(intending to) sleep, move, eat, grow, play, and share  
-(while I) love, laugh, cry, and eventually die
+(intending to)  
+sleep, move, eat, grow, play, and share  
+(at the balance of)  
+think, do, be  
+(while I)  
+love, laugh, cry, and eventually die
 
 #### Principles
 
-**Yes, and…**  
+Yes, and…  
 Name things once  
 Embrace simplicity  
 Ask permission once  
