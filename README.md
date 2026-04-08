@@ -31,13 +31,4 @@ Defaults first, until justified
 <img
   src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=philoserf&theme=default"
   alt="Profile Details">
-<img
-  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=philoserf&theme=default"
-  alt="Stats"
-  width="49%">
-<img
-  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=philoserf&theme=default&utcOffset=-5"
-  alt="Productive Time"
-  width="49%">
-
 </div>
