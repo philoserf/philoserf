@@ -25,10 +25,3 @@ Defaults first, until justified
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](#)
 [![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)](#)
 [![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)](#)
-
-#### Stats
-
-<img
-  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=philoserf&theme=default"
-  alt="Profile Details">
-</div>
