@@ -1,8 +1,6 @@
 <div align="center">
 
-HOMO·HOMINIS·ESSE  
-COGITA·DISCE·NECTE·ENUNTIA  
-PERCIPE·STRUE·EFFICE
+COGITA·DISCE·NECTE·FARE  
 
 (intending to)  
 sleep, move, eat, grow, play, and share  
