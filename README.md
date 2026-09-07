@@ -16,8 +16,9 @@ Name things once
 Embrace simplicity  
 Ask permission once  
 Assume good intentions  
-One file until you need two  
-Defaults first, until justified
+One file until we need two  
+Use defaults until justified
+Known and fixable gets fixed
 
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](#)
