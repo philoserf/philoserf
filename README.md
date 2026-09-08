@@ -17,7 +17,7 @@ Embrace simplicity
 Ask permission once  
 Assume good intentions  
 One file until we need two  
-Use defaults until justified
+Use defaults until justified. 
 Known and fixable gets fixed
 
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](#)
