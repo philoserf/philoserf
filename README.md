@@ -2,12 +2,9 @@
 
 COGITA·DISCE·NECTE·FARE  
 
-(intending to)  
-sleep, move, eat, grow, play, and share  
-(at the balance of)  
-think, do, and be  
-(while I)  
-love, laugh, cry, and eventually die
+(intending to) sleep, move, eat, grow, play, and share  
+(at the balance of) think, do, and be  
+(while I) love, laugh, cry, and eventually die
 
 #### Principles
 
