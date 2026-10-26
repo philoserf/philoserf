@@ -1,6 +1,6 @@
 <div align="center">
 
-COGITA·DISCE·NECTE·FARE  
+COGITA·DISCE·NECTE·FARE
 
 (intending to) sleep, move, eat, grow, play, and share  
 (at the balance of) think, do, and be  
