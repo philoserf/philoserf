@@ -4,11 +4,11 @@ GitHub profile README repository for Mark Ayers (@philoserf).
 
 ## Repository purpose
 
-This is a single-file repo containing only `README.md`. It renders as the GitHub profile page at <https://github.com/philoserf>. There is no code, build system, tests, or CI/CD.
+The content is `README.md`; the other tracked files are its two licenses and this one. It renders as the GitHub profile page at <https://github.com/philoserf>. There is no code, build system, tests, or CI/CD.
 
 ## Key constraint
 
-Keep this a single-file repo. Do not add files unless explicitly asked.
+Keep the content in `README.md`. Do not add files unless explicitly asked.
 
 ## README structure
 
@@ -28,8 +28,8 @@ The README uses a centered HTML layout (`<div align="center">`) with these secti
 
 ## Formatting
 
-Markdown must pass `prettier`. Format with:
+Markdown must pass `bun fmt --check`. Format with:
 
 ```bash
-bunx prettier --write README.md
+bun fmt README.md
 ```
